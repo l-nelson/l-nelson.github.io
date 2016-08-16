@@ -5,7 +5,7 @@
  */
 
 var things = ["Science", "Shoelaces", "Soccer", "Strawberries", "pencils", "Persimmons"];
-var programmers = ["electrician", "field mouse", "farmer", "lawyer", "maid", "donkey"]
+var programmers = ["electrician", "field mouse", "farmer", "lawyer", "maid", "donkey"];
 var castles = ["institutions", "churches", "hospitals"]
 var exertions = ["screaming", "breathing", "agony", "toil", "depression", "perception", "labor"];
 var airs = ["sky", "stratosphere", "sunlight", "storm", "blood"];
