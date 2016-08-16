@@ -41,18 +41,18 @@ var rules = {
     "What do you think machines have to do with your problem?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "Good for you, pal.",
   ],
   "~*x sorry ~*y": [
     "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "I think I will",
+    "YOU can apologize though.",
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
-    "Does thinking of ~y bring anything else to mind?",
+    "Have you ever eaten a strawberry?",
     "What else do you remember?",
-    "Why do you recall ~y right now?",
+    "A bright light. Then death.",
     "What in the present situation reminds you of ~y?",
     "What is the connection between me and ~y?",
   ],
