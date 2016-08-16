@@ -4,7 +4,7 @@
  * L&T quote generator
  */
 
-var things = ["Science", "Shoelaces", "Soccer", "Strawberries", "Thought", "Persimmons"];
+var things = ["Science", "Shoelaces", "Soccer", "Strawberries", "Brussel sprouts", "Persimmons"];
 var programmers = ["electrician", "field mouse", "farmer", "lawyer", "maid", "donkey"]
 var castles = ["institutions", "churches", "hospitals"]
 var exertions = ["screaming", "breathing", "struggle", "toil", "endeavor", "hard work", "labor"];
